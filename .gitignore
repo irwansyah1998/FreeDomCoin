@@ -1,0 +1,6 @@
+# Abaikan direktori build
+/build/
+
+# Abaikan file sistem operasi
+.DS_Store
+Thumbs.db
