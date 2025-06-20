@@ -15,7 +15,7 @@ FreeDomCoin (FDC) is a decentralized peer-to-peer cryptocurrency project being d
 > This project is currently in a conceptual and educational stage. It is NOT a production-ready cryptocurrency and should NOT be used for any real financial transactions. The cryptographic implementations are simplified for learning purposes and are insecure for real-world applications.
 > 
 🚀 Key Features (Conceptual)
- * Blockchain Core: An immutable, chain-of-blocks ledger secured using SHA-256 cryptographic hashing.
+ * Blockchain Core: An immutable, chain-of-blocks ledger secured using SHA-256 cryptographic hashing. *
  * Transaction Model: Utilizes the Unspent Transaction Output (UTXO) model, similar to Bitcoin, for robust value transfer.
  * Consensus Mechanism: Employs a Proof-of-Work (PoW) system where miners compete to create new blocks and secure the network.
  * Limited Supply: A fixed maximum supply of 32 million FDC to create scarcity and a predictable monetary policy.
